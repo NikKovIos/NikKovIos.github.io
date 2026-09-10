@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B3U3XRF8D7.com.nikkov.sharemaster"],
+        "components": [
+          {
+            "/": "/oauth/tiktok/*",
+            "comment": "Возврат из OAuth TikTok в Share Master"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["B3U3XRF8D7.com.nikkov.sharemaster"]
+  }
+}
